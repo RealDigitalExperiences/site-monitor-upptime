@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.zeebab.co.za.ico",
     "slug": "zeebab",
     "status": "up",
-    "uptime": "9.24%",
-    "uptimeDay": "9.24%",
-    "uptimeWeek": "9.24%",
-    "uptimeMonth": "9.24%",
-    "uptimeYear": "9.24%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 245,
     "timeDay": 245,
     "timeWeek": 245,
     "timeMonth": 245,
     "timeYear": 245,
-    "dailyMinutesDown": {
-      "2023-11-08": 2
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Hennies",

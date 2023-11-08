@@ -4,7 +4,7 @@ repo: site-monitor-upptime # The name of this repository
 
 sites:
   - name: Zeebab
-    url: https://www.zeebab.com
+    url: https://www.zeebab.co.za
   - name: Hennies
     url: https://www.therealhennies.co.za
   - name: Yellow Fat media

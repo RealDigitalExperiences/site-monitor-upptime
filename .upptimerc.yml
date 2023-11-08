@@ -9,8 +9,19 @@ sites:
     url: https://www.therealhennies.co.za
   - name: Yellow Fat media
     url: https://yellowfatmedia.com
+  - name: Gallaron
+    url: https://earnest-hamster-6fd4cb.netlify.app/
   - name: Ohkayi
     url: https://ohkayi.com
+  - name: Hennies Zeebab Branches
+    url: https://branches.therealhennies.co.za
+  - name: Hennies Zeebab Branches
+    url: https://branches.therealhennies.co.za
+  - name: Zeebab Hennies
+    url: https://hennies.zeebab.co.za/login
+  - name: Zeebab Forest Energy
+    url: https://forestenergy.zeebab.co.za/login
+
 
 
 status-website:

@@ -33,7 +33,7 @@ status-website:
   baseUrl: /site-monitor-upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Real Digital Experiences
-  introTitle: "**Real Digital Experiences** is the open-source uptime monitor and status page, powered entirely by GitHub."
+  introTitle: "**Real Digital Experiences** website estate for Hennies Holdings group"
   introMessage: Real digital estate
   navbar:
     - title: Status

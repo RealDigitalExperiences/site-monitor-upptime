@@ -58,9 +58,9 @@
     "url": "https://yellowfatmedia.com",
     "icon": "https://icons.duckduckgo.com/ip3/yellowfatmedia.com.ico",
     "slug": "yellow-fat-media",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -69,7 +69,9 @@
     "timeWeek": 571,
     "timeMonth": 571,
     "timeYear": 571,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-11-13": 0
+    }
   },
   {
     "name": "Gallaron",

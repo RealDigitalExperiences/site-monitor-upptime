@@ -58,19 +58,19 @@
     "url": "https://yellowfatmedia.com",
     "icon": "https://icons.duckduckgo.com/ip3/yellowfatmedia.com.ico",
     "slug": "yellow-fat-media",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 571,
-    "timeDay": 595,
-    "timeWeek": 571,
-    "timeMonth": 571,
-    "timeYear": 571,
+    "status": "up",
+    "uptime": "99.82%",
+    "uptimeDay": "99.11%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.82%",
+    "uptimeYear": "99.82%",
+    "time": 563,
+    "timeDay": 535,
+    "timeWeek": 563,
+    "timeMonth": 563,
+    "timeYear": 563,
     "dailyMinutesDown": {
-      "2023-11-13": 0
+      "2023-11-13": 13
     }
   },
   {

@@ -40,9 +40,9 @@
     "url": "https://www.therealhennies.co.za",
     "icon": "https://icons.duckduckgo.com/ip3/www.therealhennies.co.za.ico",
     "slug": "hennies",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,7 +51,9 @@
     "timeWeek": 8365,
     "timeMonth": 8365,
     "timeYear": 8365,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-11-14": 0
+    }
   },
   {
     "name": "Yellow Fat media",
@@ -65,7 +67,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 548,
-    "timeDay": 410,
+    "timeDay": 344,
     "timeWeek": 548,
     "timeMonth": 548,
     "timeYear": 548,

@@ -6,8 +6,8 @@
     "slug": "badinage",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 250,
@@ -15,17 +15,19 @@
     "timeWeek": 208,
     "timeMonth": 250,
     "timeYear": 250,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-12-05": 1
+    }
   },
   {
     "name": "Zeebab",
     "url": "https://www.zeebab.co.za",
     "icon": "https://icons.duckduckgo.com/ip3/www.zeebab.co.za.ico",
     "slug": "zeebab",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 403,
@@ -33,7 +35,9 @@
     "timeWeek": 417,
     "timeMonth": 403,
     "timeYear": 403,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-12-05": 1
+    }
   },
   {
     "name": "Hennies",

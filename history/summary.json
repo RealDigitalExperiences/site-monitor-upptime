@@ -96,19 +96,19 @@
     "url": "https://ohkayi.com",
     "icon": "https://icons.duckduckgo.com/ip3/ohkayi.com.ico",
     "slug": "ohkayi",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 504,
-    "timeDay": 451,
-    "timeWeek": 421,
-    "timeMonth": 485,
-    "timeYear": 504,
+    "status": "up",
+    "uptime": "99.60%",
+    "uptimeDay": "83.98%",
+    "uptimeWeek": "97.71%",
+    "uptimeMonth": "99.47%",
+    "uptimeYear": "99.60%",
+    "time": 510,
+    "timeDay": 560,
+    "timeWeek": 461,
+    "timeMonth": 495,
+    "timeYear": 510,
     "dailyMinutesDown": {
-      "2023-12-18": 0
+      "2023-12-18": 231
     }
   },
   {

@@ -4,27 +4,29 @@
     "url": "https://badinage.co.za/",
     "icon": "https://icons.duckduckgo.com/ip3/badinage.co.za.ico",
     "slug": "badinage",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 263,
-    "timeDay": 186,
-    "timeWeek": 390,
-    "timeMonth": 269,
-    "timeYear": 263,
-    "dailyMinutesDown": {}
+    "time": 309,
+    "timeDay": 1609,
+    "timeWeek": 720,
+    "timeMonth": 352,
+    "timeYear": 309,
+    "dailyMinutesDown": {
+      "2024-01-03": 0
+    }
   },
   {
     "name": "Zeebab",
     "url": "https://www.zeebab.co.za",
     "icon": "https://icons.duckduckgo.com/ip3/www.zeebab.co.za.ico",
     "slug": "zeebab",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +35,9 @@
     "timeWeek": 407,
     "timeMonth": 372,
     "timeYear": 386,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-03": 0
+    }
   },
   {
     "name": "Hennies",
@@ -153,18 +157,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/forestenergy.zeebab.co.za.ico",
     "slug": "zeebab-forest-energy",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.36%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 181,
     "timeDay": 195,
     "timeWeek": 174,
     "timeMonth": 163,
     "timeYear": 181,
-    "dailyMinutesDown": {
-      "2024-01-03": 9
-    }
+    "dailyMinutesDown": {}
   }
 ]

@@ -4,19 +4,19 @@
     "url": "https://badinage.co.za/",
     "icon": "https://icons.duckduckgo.com/ip3/badinage.co.za.ico",
     "slug": "badinage",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 309,
-    "timeDay": 1609,
-    "timeWeek": 720,
-    "timeMonth": 352,
-    "timeYear": 309,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.20%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
+    "time": 307,
+    "timeDay": 1146,
+    "timeWeek": 664,
+    "timeMonth": 349,
+    "timeYear": 307,
     "dailyMinutesDown": {
-      "2024-01-03": 0
+      "2024-01-03": 11
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://www.zeebab.co.za",
     "icon": "https://icons.duckduckgo.com/ip3/www.zeebab.co.za.ico",
     "slug": "zeebab",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 386,
-    "timeDay": 648,
-    "timeWeek": 407,
-    "timeMonth": 372,
-    "timeYear": 386,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.20%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
+    "time": 384,
+    "timeDay": 430,
+    "timeWeek": 382,
+    "timeMonth": 367,
+    "timeYear": 384,
     "dailyMinutesDown": {
-      "2024-01-03": 0
+      "2024-01-03": 11
     }
   },
   {

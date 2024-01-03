@@ -1,7 +1,7 @@
 url: https://forestenergy.zeebab.co.za/login
-status: up
-code: 200
-responseTime: 272
-lastUpdated: 2024-01-02T23:03:20.552Z
+status: down
+code: 500
+responseTime: 197
+lastUpdated: 2024-01-03T16:52:42.289Z
 startTime: 2023-11-08T07:27:27.997Z
 generator: Upptime <https://github.com/upptime/upptime>

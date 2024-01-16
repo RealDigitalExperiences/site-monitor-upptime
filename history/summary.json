@@ -23,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.zeebab.co.za.ico",
     "slug": "zeebab",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.39%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 424,
     "timeDay": 1202,
     "timeWeek": 823,
     "timeMonth": 444,
     "timeYear": 424,
-    "dailyMinutesDown": {
-      "2024-01-16": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Hennies",
@@ -62,19 +60,19 @@
     "url": "https://yellowfatmedia.com",
     "icon": "https://icons.duckduckgo.com/ip3/yellowfatmedia.com.ico",
     "slug": "yellow-fat-media",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.38%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
-    "time": 479,
-    "timeDay": 469,
-    "timeWeek": 547,
-    "timeMonth": 468,
-    "timeYear": 479,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.58%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.98%",
+    "time": 480,
+    "timeDay": 491,
+    "timeWeek": 543,
+    "timeMonth": 470,
+    "timeYear": 480,
     "dailyMinutesDown": {
-      "2024-01-16": 9
+      "2024-01-16": 20
     }
   },
   {

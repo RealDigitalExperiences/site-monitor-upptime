@@ -4,36 +4,40 @@
     "url": "https://badinage.co.za/",
     "icon": "https://icons.duckduckgo.com/ip3/badinage.co.za.ico",
     "slug": "badinage",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 301,
-    "timeDay": 205,
-    "timeWeek": 394,
-    "timeMonth": 364,
-    "timeYear": 301,
-    "dailyMinutesDown": {}
+    "time": 350,
+    "timeDay": 2161,
+    "timeWeek": 860,
+    "timeMonth": 474,
+    "timeYear": 350,
+    "dailyMinutesDown": {
+      "2024-01-19": 0
+    }
   },
   {
     "name": "Zeebab",
     "url": "https://www.zeebab.co.za",
     "icon": "https://icons.duckduckgo.com/ip3/www.zeebab.co.za.ico",
     "slug": "zeebab",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 422,
-    "timeDay": 704,
-    "timeWeek": 791,
-    "timeMonth": 464,
+    "timeDay": 561,
+    "timeWeek": 754,
+    "timeMonth": 463,
     "timeYear": 422,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-19": 0
+    }
   },
   {
     "name": "Hennies",

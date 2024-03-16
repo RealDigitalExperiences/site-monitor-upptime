@@ -4,10 +4,10 @@
     "url": "https://badinage.co.za/",
     "icon": "https://icons.duckduckgo.com/ip3/badinage.co.za.ico",
     "slug": "badinage",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "98.20%",
-    "uptimeWeek": "99.74%",
+    "uptimeDay": "98.14%",
+    "uptimeWeek": "99.73%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.99%",
     "time": 343,
@@ -16,7 +16,7 @@
     "timeMonth": 277,
     "timeYear": 343,
     "dailyMinutesDown": {
-      "2024-03-16": 26
+      "2024-03-16": 27
     }
   },
   {
@@ -24,9 +24,9 @@
     "url": "https://www.zeebab.co.za",
     "icon": "https://icons.duckduckgo.com/ip3/www.zeebab.co.za.ico",
     "slug": "zeebab",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "98.81%",
+    "uptimeDay": "98.78%",
     "uptimeWeek": "99.83%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
@@ -65,10 +65,10 @@
     "url": "https://yellowfatmedia.com",
     "icon": "https://icons.duckduckgo.com/ip3/yellowfatmedia.com.ico",
     "slug": "yellow-fat-media",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "98.22%",
-    "uptimeWeek": "99.75%",
+    "uptimeDay": "98.21%",
+    "uptimeWeek": "99.74%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.98%",
     "time": 494,
@@ -126,18 +126,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/branches.therealhennies.co.za.ico",
     "slug": "hennies-zeebab-branches",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "99.34%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
     "time": 570,
     "timeDay": 884,
     "timeWeek": 676,
     "timeMonth": 646,
     "timeYear": 570,
     "dailyMinutesDown": {
-      "2024-03-16": 0
+      "2024-03-16": 10
     }
   },
   {

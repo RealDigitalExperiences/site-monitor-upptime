@@ -24,19 +24,19 @@
     "url": "https://www.zeebab.co.za",
     "icon": "https://icons.duckduckgo.com/ip3/www.zeebab.co.za.ico",
     "slug": "zeebab",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "98.79%",
-    "uptimeWeek": "99.83%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.99%",
-    "time": 432,
-    "timeDay": 379,
-    "timeWeek": 314,
-    "timeMonth": 416,
-    "timeYear": 432,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "97.90%",
+    "uptimeWeek": "99.70%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.98%",
+    "time": 430,
+    "timeDay": 312,
+    "timeWeek": 297,
+    "timeMonth": 408,
+    "timeYear": 430,
     "dailyMinutesDown": {
-      "2024-03-16": 17
+      "2024-03-16": 30
     }
   },
   {
@@ -125,10 +125,10 @@
     "url": "https://branches.therealhennies.co.za",
     "icon": "https://icons.duckduckgo.com/ip3/branches.therealhennies.co.za.ico",
     "slug": "hennies-zeebab-branches",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 566,
@@ -136,17 +136,19 @@
     "timeWeek": 606,
     "timeMonth": 628,
     "timeYear": 566,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-16": 1
+    }
   },
   {
     "name": "Zeebab Hennies",
     "url": "https://hennies.zeebab.co.za/login",
     "icon": "https://icons.duckduckgo.com/ip3/hennies.zeebab.co.za.ico",
     "slug": "zeebab-hennies",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "98.22%",
-    "uptimeWeek": "99.75%",
+    "uptimeDay": "98.17%",
+    "uptimeWeek": "99.74%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.99%",
     "time": 233,
@@ -155,7 +157,7 @@
     "timeMonth": 358,
     "timeYear": 233,
     "dailyMinutesDown": {
-      "2024-03-16": 26
+      "2024-03-16": 27
     }
   },
   {
@@ -163,10 +165,10 @@
     "url": "https://forestenergy.zeebab.co.za/login",
     "icon": "https://icons.duckduckgo.com/ip3/forestenergy.zeebab.co.za.ico",
     "slug": "zeebab-forest-energy",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "98.22%",
-    "uptimeWeek": "99.75%",
+    "uptimeDay": "98.21%",
+    "uptimeWeek": "99.74%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.99%",
     "time": 249,

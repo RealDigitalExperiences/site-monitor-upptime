@@ -4,19 +4,19 @@
     "url": "https://badinage.co.za/",
     "icon": "https://icons.duckduckgo.com/ip3/badinage.co.za.ico",
     "slug": "badinage",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "98.73%",
-    "uptimeWeek": "99.82%",
-    "uptimeMonth": "99.96%",
+    "uptimeDay": "98.20%",
+    "uptimeWeek": "99.74%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.99%",
     "time": 343,
-    "timeDay": 374,
-    "timeWeek": 280,
-    "timeMonth": 273,
+    "timeDay": 370,
+    "timeWeek": 292,
+    "timeMonth": 277,
     "timeYear": 343,
     "dailyMinutesDown": {
-      "2024-03-16": 18
+      "2024-03-16": 26
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://www.zeebab.co.za",
     "icon": "https://icons.duckduckgo.com/ip3/www.zeebab.co.za.ico",
     "slug": "zeebab",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.33%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "98.81%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 432,
-    "timeDay": 329,
-    "timeWeek": 295,
-    "timeMonth": 415,
+    "timeDay": 379,
+    "timeWeek": 314,
+    "timeMonth": 416,
     "timeYear": 432,
     "dailyMinutesDown": {
-      "2024-03-16": 10
+      "2024-03-16": 17
     }
   },
   {
@@ -65,19 +65,19 @@
     "url": "https://yellowfatmedia.com",
     "icon": "https://icons.duckduckgo.com/ip3/yellowfatmedia.com.ico",
     "slug": "yellow-fat-media",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "98.75%",
-    "uptimeWeek": "99.82%",
-    "uptimeMonth": "99.96%",
+    "uptimeDay": "98.22%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.98%",
-    "time": 491,
-    "timeDay": 391,
-    "timeWeek": 495,
-    "timeMonth": 539,
-    "timeYear": 491,
+    "time": 494,
+    "timeDay": 618,
+    "timeWeek": 545,
+    "timeMonth": 550,
+    "timeYear": 494,
     "dailyMinutesDown": {
-      "2024-03-16": 18,
+      "2024-03-16": 26,
       "2024-01-16": 20
     }
   },
@@ -126,38 +126,36 @@
     "icon": "https://icons.duckduckgo.com/ip3/branches.therealhennies.co.za.ico",
     "slug": "hennies-zeebab-branches",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.35%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 566,
     "timeDay": 741,
     "timeWeek": 606,
     "timeMonth": 628,
     "timeYear": 566,
-    "dailyMinutesDown": {
-      "2024-03-16": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Zeebab Hennies",
     "url": "https://hennies.zeebab.co.za/login",
     "icon": "https://icons.duckduckgo.com/ip3/hennies.zeebab.co.za.ico",
     "slug": "zeebab-hennies",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "98.76%",
-    "uptimeWeek": "99.82%",
-    "uptimeMonth": "99.96%",
+    "uptimeDay": "98.22%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.99%",
-    "time": 232,
-    "timeDay": 160,
-    "timeWeek": 756,
-    "timeMonth": 355,
-    "timeYear": 232,
+    "time": 233,
+    "timeDay": 309,
+    "timeWeek": 713,
+    "timeMonth": 358,
+    "timeYear": 233,
     "dailyMinutesDown": {
-      "2024-03-16": 18
+      "2024-03-16": 26
     }
   },
   {
@@ -165,19 +163,19 @@
     "url": "https://forestenergy.zeebab.co.za/login",
     "icon": "https://icons.duckduckgo.com/ip3/forestenergy.zeebab.co.za.ico",
     "slug": "zeebab-forest-energy",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "98.76%",
-    "uptimeWeek": "99.82%",
-    "uptimeMonth": "99.96%",
+    "uptimeDay": "98.22%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.99%",
-    "time": 250,
-    "timeDay": 158,
-    "timeWeek": 891,
-    "timeMonth": 341,
-    "timeYear": 250,
+    "time": 249,
+    "timeDay": 179,
+    "timeWeek": 792,
+    "timeMonth": 336,
+    "timeYear": 249,
     "dailyMinutesDown": {
-      "2024-03-16": 18
+      "2024-03-16": 26
     }
   }
 ]

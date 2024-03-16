@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/badinage.co.za.ico",
     "slug": "badinage",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.37%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "98.73%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
     "time": 343,
     "timeDay": 374,
     "timeWeek": 280,
     "timeMonth": 273,
     "timeYear": 343,
     "dailyMinutesDown": {
-      "2024-03-16": 9
+      "2024-03-16": 18
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.zeebab.co.za.ico",
     "slug": "zeebab",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "99.33%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
     "time": 432,
     "timeDay": 329,
     "timeWeek": 295,
     "timeMonth": 415,
     "timeYear": 432,
     "dailyMinutesDown": {
-      "2024-03-16": 0
+      "2024-03-16": 10
     }
   },
   {
@@ -67,9 +67,9 @@
     "slug": "yellow-fat-media",
     "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "99.40%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "98.75%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
     "time": 491,
     "timeDay": 391,
@@ -77,7 +77,7 @@
     "timeMonth": 539,
     "timeYear": 491,
     "dailyMinutesDown": {
-      "2024-03-16": 9,
+      "2024-03-16": 18,
       "2024-01-16": 20
     }
   },
@@ -125,19 +125,19 @@
     "url": "https://branches.therealhennies.co.za",
     "icon": "https://icons.duckduckgo.com/ip3/branches.therealhennies.co.za.ico",
     "slug": "hennies-zeebab-branches",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 563,
-    "timeDay": 494,
-    "timeWeek": 542,
-    "timeMonth": 615,
-    "timeYear": 563,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.35%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 566,
+    "timeDay": 741,
+    "timeWeek": 606,
+    "timeMonth": 628,
+    "timeYear": 566,
     "dailyMinutesDown": {
-      "2024-03-16": 0
+      "2024-03-16": 9
     }
   },
   {
@@ -146,18 +146,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/hennies.zeebab.co.za.ico",
     "slug": "zeebab-hennies",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.40%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "98.76%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
     "time": 232,
     "timeDay": 160,
     "timeWeek": 756,
     "timeMonth": 355,
     "timeYear": 232,
     "dailyMinutesDown": {
-      "2024-03-16": 9
+      "2024-03-16": 18
     }
   },
   {
@@ -166,18 +166,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/forestenergy.zeebab.co.za.ico",
     "slug": "zeebab-forest-energy",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.40%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "98.76%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
     "time": 250,
     "timeDay": 158,
     "timeWeek": 891,
     "timeMonth": 341,
     "timeYear": 250,
     "dailyMinutesDown": {
-      "2024-03-16": 9
+      "2024-03-16": 18
     }
   }
 ]

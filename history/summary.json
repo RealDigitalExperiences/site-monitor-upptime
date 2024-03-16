@@ -4,10 +4,10 @@
     "url": "https://badinage.co.za/",
     "icon": "https://icons.duckduckgo.com/ip3/badinage.co.za.ico",
     "slug": "badinage",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 343,
@@ -15,7 +15,9 @@
     "timeWeek": 280,
     "timeMonth": 273,
     "timeYear": 343,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-16": 1
+    }
   },
   {
     "name": "Zeebab",
@@ -61,9 +63,9 @@
     "url": "https://yellowfatmedia.com",
     "icon": "https://icons.duckduckgo.com/ip3/yellowfatmedia.com.ico",
     "slug": "yellow-fat-media",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -73,6 +75,7 @@
     "timeMonth": 539,
     "timeYear": 491,
     "dailyMinutesDown": {
+      "2024-03-16": 0,
       "2024-01-16": 20
     }
   },
@@ -138,9 +141,9 @@
     "url": "https://hennies.zeebab.co.za/login",
     "icon": "https://icons.duckduckgo.com/ip3/hennies.zeebab.co.za.ico",
     "slug": "zeebab-hennies",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -149,16 +152,18 @@
     "timeWeek": 756,
     "timeMonth": 355,
     "timeYear": 232,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-16": 0
+    }
   },
   {
     "name": "Zeebab Forest Energy",
     "url": "https://forestenergy.zeebab.co.za/login",
     "icon": "https://icons.duckduckgo.com/ip3/forestenergy.zeebab.co.za.ico",
     "slug": "zeebab-forest-energy",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -167,6 +172,8 @@
     "timeWeek": 891,
     "timeMonth": 341,
     "timeYear": 250,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-16": 0
+    }
   }
 ]

@@ -25,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.zeebab.co.za.ico",
     "slug": "zeebab",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "97.90%",
-    "uptimeWeek": "99.70%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.98%",
+    "uptime": "99.99%",
+    "uptimeDay": "98.81%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
     "time": 430,
     "timeDay": 312,
     "timeWeek": 297,
     "timeMonth": 408,
     "timeYear": 430,
     "dailyMinutesDown": {
-      "2024-03-16": 30
+      "2024-03-16": 17
     }
   },
   {
@@ -125,19 +125,19 @@
     "url": "https://branches.therealhennies.co.za",
     "icon": "https://icons.duckduckgo.com/ip3/branches.therealhennies.co.za.ico",
     "slug": "hennies-zeebab-branches",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 566,
-    "timeDay": 741,
-    "timeWeek": 606,
-    "timeMonth": 628,
-    "timeYear": 566,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.31%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 570,
+    "timeDay": 884,
+    "timeWeek": 676,
+    "timeMonth": 646,
+    "timeYear": 570,
     "dailyMinutesDown": {
-      "2024-03-16": 1
+      "2024-03-16": 10
     }
   },
   {
@@ -145,19 +145,19 @@
     "url": "https://hennies.zeebab.co.za/login",
     "icon": "https://icons.duckduckgo.com/ip3/hennies.zeebab.co.za.ico",
     "slug": "zeebab-hennies",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "98.17%",
-    "uptimeWeek": "99.74%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.99%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "97.56%",
+    "uptimeWeek": "99.65%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.98%",
     "time": 233,
-    "timeDay": 309,
-    "timeWeek": 713,
-    "timeMonth": 358,
+    "timeDay": 246,
+    "timeWeek": 639,
+    "timeMonth": 350,
     "timeYear": 233,
     "dailyMinutesDown": {
-      "2024-03-16": 27
+      "2024-03-16": 35
     }
   },
   {
@@ -165,19 +165,19 @@
     "url": "https://forestenergy.zeebab.co.za/login",
     "icon": "https://icons.duckduckgo.com/ip3/forestenergy.zeebab.co.za.ico",
     "slug": "zeebab-forest-energy",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "98.21%",
-    "uptimeWeek": "99.74%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.99%",
-    "time": 249,
-    "timeDay": 179,
-    "timeWeek": 792,
-    "timeMonth": 336,
-    "timeYear": 249,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "97.60%",
+    "uptimeWeek": "99.66%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.98%",
+    "time": 248,
+    "timeDay": 164,
+    "timeWeek": 710,
+    "timeMonth": 330,
+    "timeYear": 248,
     "dailyMinutesDown": {
-      "2024-03-16": 26
+      "2024-03-16": 35
     }
   }
 ]
